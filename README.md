@@ -1,3 +1,3 @@
 # About
 
-Some multiprocessing examples in python.
+Exploring https://docs.python.org/3/library/concurrency.html in python.
